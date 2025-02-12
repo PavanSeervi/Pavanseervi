@@ -12,7 +12,7 @@ I'm a recent BTech graduate in Electronics & Communication Engineering with a pa
 Here are some of my favorite projects:
 - **[Simon Says Game](https://github.com/PavanSeervi/simon-says-game):** An interactive memory game built with HTML, CSS, and JavaScript.
 - **[Authenticated Access Control for Vehicle Ignition System](https://github.com/PavanSeervi/vehicle-ignition-system):** A secure system using driver’s license and fingerprint authentication.
-- **[Personal Finance Manager](https://github.com/PavanSeervi/personal-finance-manager):** A web app for managing personal finances using React.js and Node.js.
+- **[Personal Finance Manager](https://github.com/PavanSeervi/personal-finance-manager):** A web app for managing personal finances using HTML, CSS, and JavaScript.
 
 ## 📫 Contact Me
 - **Email:** pavanseervi52@gmail.com
