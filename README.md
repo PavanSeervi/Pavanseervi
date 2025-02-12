@@ -20,4 +20,4 @@ Here are some of my favorite projects:
 - **Resume:** [Download Resume](#)
 
 ## 🌟 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PayanScervi&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PavanSeervi&show_icons=true&theme=radical)
