@@ -16,6 +16,6 @@ Here are some of my favorite projects:
 
 ## 📫 Contact Me
 - **Email:** pavanseervi52@gmail.com
-- **LinkedIn:** [Pavan Seervi](https://www.linkedin.com/in/pavan-seervi)
+- **LinkedIn:** [Pavan Seervi](https://http://linkedin.com/in/pavan-seervi-b754a3205)
 - **Resume:** [Download Resume](#)
 
